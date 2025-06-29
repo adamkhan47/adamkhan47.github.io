@@ -36,3 +36,6 @@ ul:hover {
     font-size: 1.5rem;
     font-weight: 400;
 }
+ul a {
+    color: rgb(183,121,248);
+}
